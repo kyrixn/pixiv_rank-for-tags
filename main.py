@@ -16,8 +16,8 @@ headers ={
 }
 
 ua_list = [
-			"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-			"(KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36",
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            "(KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36",
             "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 "  
             "(KHTML, like Gecko) Chrome/22.0.1207.1 Safari/537.1",  
             "Mozilla/5.0 (X11; CrOS i686 2268.111.0) AppleWebKit/536.11 "  
