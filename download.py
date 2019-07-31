@@ -31,12 +31,10 @@ def change_url(ss, iid):
 
 
 if __name__ == '__main__':
-    ret =check.if_done()
-    if ret==False:
-        print("Haven't done, please wait............")
-        exit(0)
-
+    check.show()
     tag =input("Chose a tag: ")
+    while int(tag) >= check.chck():
+        print("Haven't done, please wait............")
 
     idx=0
     with open(str(tag)+'.txt','r') as f:
