@@ -1,5 +1,7 @@
 # pixiv_rank-for-tags
 
+### **This project is invalid now since pixiv revise its website with google recaptchaV3**
+
 - 国内同学要有外网服务器
 - It is just another coding practice of a senior high.
 - a web crawler for pixiv.net
